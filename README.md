@@ -1,9 +1,21 @@
-✅ Project Summary
-This project is a Task Management System with User and Admin Panels, built using PHP and MySQL. It allows users to register, log in, and update their task progress. Admins can manage users and view their progress.
-
 # 🗂️ Task Management System (PHP & MySQL)
 
-This is a simple web-based Task Management System that allows users to register, log in, and update their task status. It also includes an admin panel for managing users and monitoring their task progress.
+🛠️ Employee Task Management System (JIRA-like)
+This is a task management system designed to streamline project development workflows across multiple departments such as UI/UX Design, Frontend, Backend, and Database.
+
+Key Features:
+
+Manager Dashboard: Assign tasks to employees with deadlines and track their progress.
+
+Employee Dashboard: View assigned tasks with status columns: To Do, In Progress, Done.
+
+Real-time Updates: Task status changes by employees are reflected in the manager's view.
+
+Departmental Coordination: Tasks are categorized and assigned based on department (e.g., Design, Frontend).
+
+Workflow Automation: Once a task is marked as Done, the manager can assign the next task seamlessly.
+
+Ideal for managing team productivity, improving transparency, and ensuring timely project delivery.
 
 ## 🔧 Features
 
