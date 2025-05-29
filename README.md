@@ -82,13 +82,6 @@ Task Management/
 - Passwords are hashed using `password_hash()` for secure storage.
 - Basic session management ensures protected access to user and admin pages.
 
-## 📝 License
-
-You can choose to add a license here. For example:  
-This project is licensed under the MIT License.
-
----
-
 ## 🙌 Acknowledgements
 
 Built as part of a learning or portfolio project to demonstrate full-stack PHP and MySQL development.
